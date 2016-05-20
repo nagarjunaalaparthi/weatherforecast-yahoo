@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">refresh</string>
+    <string name="degrees">%1$s\u00B0</string>
+    <string name="wind">Wind: %1$smph</string>
+    <string name="humidity">Humidity: %1$s</string>
+    <string name="welcome_text">Welcome to\nweather forecast</string>
+</resources>
